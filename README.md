@@ -1,3 +1,5 @@
+<h3>boiler</h3>
+
 Pre-fill boiler plate depending on arg entered
 
 to install, clone this repo and use command:
